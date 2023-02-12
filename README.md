@@ -7,5 +7,6 @@
  
 To run in game IDE>
 - clone the repo 
+- Open folder in MVS
 - MVS>File>Open>CMake... choose the CMakeLists.txt file 
 - Run main.cpp
