@@ -8,4 +8,4 @@
 To run in game IDE>
 - clone the repo 
 - MVS>File>Open>CMake... choose the CMakeLists.txt file 
-- Run 
+- Run main.cpp
